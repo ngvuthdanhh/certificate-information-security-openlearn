@@ -18,4 +18,4 @@ Blue team labs focus on defensive measures to protect systems and networks from 
 
 4. **Incident Response**
    - Simulate security incidents.
-   - Practice containment and mitigation.
+   - Practice containment and mitigation
